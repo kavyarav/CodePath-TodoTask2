@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SimpleTODO</string>
+    <string name="modify_task_TextView_title">Task title</string>
+    <string name="modify_task_String_title">Task</string>
+    <string name="modify_task_EditText_task_title_hint">Enter Task Title</string>
+    <string name="modify_task_TextView_duedate_title">Due date</string>
+    <string name="modify_task_TextView_note_title">Task Note</string>
+    <string name="modify_task_EditText_note_hint">Enter Task Note</string>
+    <string name="modify_task_Textview_prioritylevel_title">Priority Level</string>
+    <string name="modify_task_priority_level_high">High</string>
+    <string name="modify_task_priority_level_medium">Medium</string>
+    <string name="modify_task_priority_level_low">Low</string>
+    <string name="modify_task_Menu_actionbar_save">Save</string>
+    <string name="modify_task_Menu_actionbar_cancel">Cancel</string>
+    <string name="modify_task_Dialog_confirmcancel_Button_positive">Yes</string>
+    <string name="modify_task_Dialog_confirmcancel_Button_negative">No</string>
+    <string name="modify_task_Dialog_confirmcancel_TextView">Are you sure to cancel?</string>
+    <string-array name="modify_task_priority_level_values">
+        <item>@string/modify_task_priority_level_high</item>
+        <item>@string/modify_task_priority_level_medium</item>
+        <item>@string/modify_task_priority_level_low</item>
+    </string-array>
+    <string name="viewalltasks_Menu_actionbar_Item_add">Add</string>
+    <string name="viewtaskdetail_Menu_actionbar_edit">Edit Task</string>
+    <string name="viewtaskdetail_Menu_actionbar_delete">Delete Task</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_view_task_detail">ViewTaskDetailActivity</string>
+    <string name="title_activity_modify_task">ModifyTaskActivity</string>
+</resources>

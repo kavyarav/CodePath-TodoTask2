@@ -5,7 +5,7 @@ CodePath-TodoTask2 is an android app that allows building a todo list and basic 
 
 Submitted by: Kavya Ravi Shankar
 
-Time spent: 5 hours spent in total so far.
+Time spent: 5+4+4 hours spent in total so far.
 
 The following **required** functionality is completed:
 
@@ -23,7 +23,5 @@ Other features:
 * Adding a note to the task.
 
 ## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-<img src="http://i.imgur.com/aWoM7er.gif" title="source: imgur.com" /></a>
-<img src="http://i.imgur.com/Uwhd3nK.gif" title="source: imgur.com" /></a>
+* <img src="http://i.imgur.com/aWoM7er.gif" title="source: imgur.com" /></a>
+* <img src="http://i.imgur.com/Uwhd3nK.gif" title="source: imgur.com" /></a>

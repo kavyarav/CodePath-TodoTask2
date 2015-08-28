@@ -21,8 +21,9 @@ The following **optional** features are implemented (so far):
 Other features:
 * Setting up due dates for the task.
 * Adding a note to the task.
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-<img src="http://i.imgur.com/eW2Jbrq.gif" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/aWoM7er.gif" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/Uwhd3nK.gif" title="source: imgur.com" /></a>
